@@ -1,0 +1,24 @@
+# Binários e executáveis
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Diretórios de build de testes
+*.test
+
+# Ferramentas e IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Variáveis de ambiente locais
+.env
+.env.local
+
+# Banco de dados e logs locais
+*.log
+
